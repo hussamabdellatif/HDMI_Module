@@ -1,11 +1,11 @@
 --------------------------------------------------------------------------------
 -- Company: 
--- Engineer:
+-- Engineer: Hussam Abdellatif
 --
 -- Create Date:   21:51:41 10/24/2017
 -- Design Name:   
--- Module Name:   C:/Users/cfritz/Documents/Personal/EE478F17/Lab5/Lab5_tbench.vhd
--- Project Name:  Lab5
+-- Module Name: 
+-- Project Name: 
 -- Target Device:  
 -- Tool versions:  
 -- Description:   
